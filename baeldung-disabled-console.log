@@ -1,0 +1,18 @@
+2020-04-23 12:44:51.180  INFO 29776 --- [main] c.e.c.Connect5ClientApplicationTests     : Starting Connect5ClientApplicationTests on IE-00001567 with PID 29776 (started by eshinit in C:\MyDocuments\Connect5\connect5-client)
+2020-04-23 12:44:51.181  INFO 29776 --- [main] c.e.c.Connect5ClientApplicationTests     : No active profile set, falling back to default profiles: default
+2020-04-23 12:44:51.672  INFO 29776 --- [main] c.e.c.Connect5ClientApplicationTests     : Started Connect5ClientApplicationTests in 0.866 seconds (JVM running for 1.888)
+2020-04-23 12:46:47.929  INFO 23444 --- [main] c.e.c.Connect5ClientApplicationTests     : Starting Connect5ClientApplicationTests on IE-00001567 with PID 23444 (started by eshinit in C:\MyDocuments\Connect5\connect5-client)
+2020-04-23 12:46:47.931  INFO 23444 --- [main] c.e.c.Connect5ClientApplicationTests     : No active profile set, falling back to default profiles: default
+2020-04-23 12:46:48.493  INFO 23444 --- [main] c.e.c.Connect5ClientApplicationTests     : Started Connect5ClientApplicationTests in 0.927 seconds (JVM running for 1.752)
+2020-04-23 12:51:56.423  INFO 24260 --- [main] c.e.c.Connect5ClientApplication          : Starting Connect5ClientApplication on IE-00001567 with PID 24260 (C:\MyDocuments\Connect5\connect5-client\target\classes started by eshinit in C:\MyDocuments\Connect5\connect5-client)
+2020-04-23 12:51:56.425  INFO 24260 --- [main] c.e.c.Connect5ClientApplication          : No active profile set, falling back to default profiles: default
+2020-04-23 12:51:57.137  INFO 24260 --- [main] c.e.c.Connect5ClientApplication          : Started Connect5ClientApplication in 1.107 seconds (JVM running for 1.504)
+2020-04-23 12:52:49.004  INFO 16264 --- [main] c.e.c.Connect5ClientApplication          : Starting Connect5ClientApplication on IE-00001567 with PID 16264 (C:\MyDocuments\Connect5\connect5-client\target\classes started by eshinit in C:\MyDocuments\Connect5\connect5-client)
+2020-04-23 12:52:49.007  INFO 16264 --- [main] c.e.c.Connect5ClientApplication          : No active profile set, falling back to default profiles: default
+2020-04-23 12:52:49.537  INFO 16264 --- [main] c.e.c.Connect5ClientApplication          : Started Connect5ClientApplication in 0.94 seconds (JVM running for 1.337)
+2020-04-23 12:53:45.261  INFO 23276 --- [main] c.e.c.Connect5ClientApplicationTests     : Starting Connect5ClientApplicationTests on IE-00001567 with PID 23276 (started by eshinit in C:\MyDocuments\Connect5\connect5-client)
+2020-04-23 12:53:45.262  INFO 23276 --- [main] c.e.c.Connect5ClientApplicationTests     : No active profile set, falling back to default profiles: default
+2020-04-23 12:53:45.737  INFO 23276 --- [main] c.e.c.Connect5ClientApplicationTests     : Started Connect5ClientApplicationTests in 0.84 seconds (JVM running for 1.663)
+2020-04-23 12:58:24.791  INFO 4520 --- [main] c.e.c.Connect5ClientApplicationTests     : Starting Connect5ClientApplicationTests on IE-00001567 with PID 4520 (started by eshinit in C:\MyDocuments\Connect5\connect5-client)
+2020-04-23 12:58:24.792  INFO 4520 --- [main] c.e.c.Connect5ClientApplicationTests     : No active profile set, falling back to default profiles: default
+2020-04-23 12:58:25.244  INFO 4520 --- [main] c.e.c.Connect5ClientApplicationTests     : Started Connect5ClientApplicationTests in 0.828 seconds (JVM running for 1.659)
